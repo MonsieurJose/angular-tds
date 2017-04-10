@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:/xampp/htdocs/Clement_VIVIER/.idea/Clement_VIVIER.iml" filepath="C:/xampp/htdocs/Clement_VIVIER/.idea/Clement_VIVIER.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/angular-tds.iml" filepath="$PROJECT_DIR$/../.idea/angular-tds.iml" />
+      <module fileurl="file://C:/xampp/htdocs/phalcon-clement-VIVIER/.idea/virtualhosts-phalcon-master.iml" filepath="C:/xampp/htdocs/phalcon-clement-VIVIER/.idea/virtualhosts-phalcon-master.iml" />
+    </modules>
+  </component>
+</project>
